@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUI", "BlazorUI\BlazorUI.csproj", "{B56DB6F6-E661-4248-9877-FC1707F360F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{93F0336F-6037-45EE-9F28-169B70B2136D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApi", "DemoApi\DemoApi.csproj", "{6680A0E7-7F7B-41F9-8C26-63DF1349DA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56DB6F6-E661-4248-9877-FC1707F360F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56DB6F6-E661-4248-9877-FC1707F360F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56DB6F6-E661-4248-9877-FC1707F360F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56DB6F6-E661-4248-9877-FC1707F360F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F0336F-6037-45EE-9F28-169B70B2136D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F0336F-6037-45EE-9F28-169B70B2136D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F0336F-6037-45EE-9F28-169B70B2136D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F0336F-6037-45EE-9F28-169B70B2136D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6680A0E7-7F7B-41F9-8C26-63DF1349DA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6680A0E7-7F7B-41F9-8C26-63DF1349DA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6680A0E7-7F7B-41F9-8C26-63DF1349DA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6680A0E7-7F7B-41F9-8C26-63DF1349DA56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A0B27A8-69DF-495C-A2D8-561D56EA41EA}
+	EndGlobalSection
+EndGlobal
